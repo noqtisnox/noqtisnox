@@ -1,45 +1,41 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=400&section=header&text=cheporte&fontSize=60)
+# Hi there, I'm Cheporté! 👋
 
-> *“Not all wanderers are lost—some are just debugging the stars.”*
-
-
-<p style="font-size:24px;">🌱─── About Me ───🌱</p>
-
-🌇 programmer at dawn, poet at dusk 🌆 | coffee addict ☕ | owl manic🦉 | debugging myself 🌐 | overthinking.exe ☁️ | emotionally open-source 💞 | forever in beta 🌙 | ./chronic_loner.sh 🌒
-
-<p style="font-size:24px;">🛠️─── Tech Arsenal ───🛠️</p>
-
-### ⚡ The MERN Stack - From Haters to Lovers
-<div align="center">
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongo,express,nodejs,react" />
-  </a>
-</p>
-
-*Built with dreams, rebellion, and 3AM coffee.*
-
-
-Want to see what other forbidden spells I know? ➡️ [Click to open the Arcane Codex](docs/skills.md)
-
-<p style="font-size:24px;">─── Best So Far ───</p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=chez-che-che&theme=tokyonight)](https://github.com/cheporte/chez-che-che)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mnogomov&theme=tokyonight)](https://github.com/cheporte/mnogomov)
-
-> 🔎 *Want to see more? ➡️ [Explore All Projects](docs/projects.md)*
-
-
----
-
-> 🌟 *“The horizon isn't the limit—it's just the starting line.”* 🌟
+> A curious student, **Full-Stack Developer** & *Open-Source Enthusiast* debugging the stars one commit at a time.
 
 </div>
 
----
-**Made with dreams, bugs, and lots of coffee by your petit [che-che](https://github.com/cheporte) ☕✨**
----
+## 🚀 Core Stack & Tech Arsenal
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=mongo,express,react,nodejs,ts,js,html,css,git,github,python,java,kotlin,fastapi,flask,vite,tailwind,sass&perline=6)](https://skillicons.dev)
+
+</div>
+
+## 📊 My GitHub Stats & Activity
+
+<div align="center">
+
+[![cheporte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=shadow_red&bg_color=transparent&hide_border=true&rank_icon=github)](https://github.com/cheporte)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=shadow_red&bg_color=transparent&hide_border=true)](https://github.com/cheporte)
+
+</div>
+
+## 🌟 Most Ambitious Creations So Far
+
+<div align="center">
+
+  [![Project 1 Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=hummingbird&theme=shadow_red&bg_color=transparent)](https://github.com/cheporte/hummingbird)
+
+  [![Project 2 Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=comet-messenger&theme=shadow_red&bg_color=transparent)](https://github.com/cheporte/comet-messenger)
+
+  [![Project 3 Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mephisto&theme=shadow_red&bg_color=transparent)](https://github.com/cheporte/mephisto)
+
+</div>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
