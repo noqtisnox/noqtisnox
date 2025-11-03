@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Cheporté! 👋
+# Hi there, I'm Noqtis! 👋
 
 > A curious student, **Full-Stack Developer** & *Open-Source Enthusiast* debugging the stars one commit at a time.
 
