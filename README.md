@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Noqtis! 👋
+# Hi there, I'm Nox! 👋
 
 > A curious student, **Full-Stack Developer** & *Open-Source Enthusiast* debugging the stars one commit at a time.
 
@@ -18,9 +18,9 @@
 
 <div align="center">
 
-[![cheporte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cheporte&show_icons=true&theme=shadow_red&bg_color=transparent&hide_border=true&rank_icon=github)](https://github.com/cheporte)
+[![cheporte's GitHub Stats](https://github-readme-stats.vercel.app/api?username=noqtisnox&show_icons=true&theme=shadow_red&bg_color=transparent&hide_border=true&rank_icon=github)](https://github.com/noqtisnox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheporte&layout=compact&theme=shadow_red&bg_color=transparent&hide_border=true)](https://github.com/cheporte)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noqtisnox&layout=compact&theme=shadow_red&bg_color=transparent&hide_border=true)](https://github.com/noqtisnox)
 
 </div>
 
@@ -28,11 +28,11 @@
 
 <div align="center">
 
-  [![Project 1 Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=hummingbird&theme=shadow_red&bg_color=transparent)](https://github.com/cheporte/hummingbird)
+  [![Project 1 Card](https://github-readme-stats.vercel.app/api/pin/?username=noqtisnox&repo=hummingbird&theme=shadow_red&bg_color=transparent)](https://github.com/noqtisnox/hummingbird)
 
-  [![Project 2 Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=comet-messenger&theme=shadow_red&bg_color=transparent)](https://github.com/cheporte/comet-messenger)
+  [![Project 2 Card](https://github-readme-stats.vercel.app/api/pin/?username=noqtisnox&repo=comet-messenger&theme=shadow_red&bg_color=transparent)](https://github.com/noqtisnox/comet-messenger)
 
-  [![Project 3 Card](https://github-readme-stats.vercel.app/api/pin/?username=cheporte&repo=mephisto&theme=shadow_red&bg_color=transparent)](https://github.com/cheporte/mephisto)
+  [![Project 3 Card](https://github-readme-stats.vercel.app/api/pin/?username=noqtisnox&repo=mephisto&theme=shadow_red&bg_color=transparent)](https://github.com/noqtisnox/mephisto)
 
 </div>
 
