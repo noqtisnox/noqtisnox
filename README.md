@@ -14,6 +14,14 @@
 
 </div>
 
+## 📖 Still Learning
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,qt,postgresql,angular,supabase&perline=6)](https://skillicons.dev)
+
+</div>
+
 ## 📊 My GitHub Stats & Activity
 
 <div align="center">
