@@ -20,30 +20,6 @@ A curious builder by daylight, a quiet craftsman of ideas by night.
 
 ---
 
-## 📈 GitHub Pulse
-
-<div align="center">
-
-| Stats | Languages |
-| :---: | :---: |
-| <a href="https://github.com/noqtisnox"><img src="https://github-readme-stats.vercel.app/api?username=noqtisnox&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/></a> | <a href="https://github.com/noqtisnox"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noqtisnox&layout=compact&theme=tokyonight&hide_border=true"/></a> |
-
-</div>
-
----
-
-## 🚀 Notable Creations
-
-<div align="center">
-
-| Hummingbird | Comet Messenger | Mephisto |
-| :---: | :---: | :---: |
-| <a href="https://github.com/noqtisnox/hummingbird"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noqtisnox&repo=hummingbird&theme=tokyonight"/></a> | <a href="https://github.com/noqtisnox/comet-messenger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noqtisnox&repo=comet-messenger&theme=tokyonight"/></a> | <a href="https://github.com/noqtisnox/mephisto"><img src="https://github-readme-stats.vercel.app/api/pin/?username=noqtisnox&repo=mephisto&theme=tokyonight"/></a> |
-
-</div>
-
----
-
 ## 🎧 Current Soundscape
 
 <img src="https://media.tenor.com/i7E4kNq3Y3EAAAAi/rem-re-zero.gif" alt="Rem Dancing" height="20%" />
