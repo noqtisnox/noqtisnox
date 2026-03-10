@@ -51,11 +51,7 @@ writing compilers, designing worlds, and chasing the perfect rice.
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=noqtisnox&show_icons=true&theme=transparent&hide_border=true&title_color=b0a8c8&icon_color=7a8aaa&text_color=c0c8d8&bg_color=1e1e24" width="49%" align="left"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noqtisnox&layout=compact&theme=transparent&hide_border=true&title_color=b0a8c8&text_color=c0c8d8&bg_color=1e1e24" width="49%" />
-
-<br clear="both"/>
+<img src="https://streak-stats.demolab.com?user=noqtisnox&theme=transparent&hide_border=true&ring=b0a8c8&fire=c08090&currStreakLabel=b0a8c8&sideLabels=7a8aaa&dates=c0c8d8&stroke=3a3a48" width="60%"/>
 
 ---
 
