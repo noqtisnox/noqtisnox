@@ -25,7 +25,7 @@ writing compilers, designing worlds, and chasing the perfect rice.
   focus      →  Full-stack · AI/ML · Systems
   currently  →  Learning Rails · Building a D&D AI tool
   os         →  Fedora Linux · GNOME · Kitty · Zsh
-  tools      →  VS Code · Tmux · Starship · btw i use fedora
+  tools      →  Zed · Starship · btw i use fedora
   dreaming   →  HavenOS — a distro with a soul & Rita — a companion who knows your system
   fun fact   →  I have 4 fantasy worlds, conlangs included
 
@@ -45,7 +45,7 @@ writing compilers, designing worlds, and chasing the perfect rice.
 
 ## 📖 Learning
 
-<img src="https://skillicons.dev/icons?i=cpp,postgresql,discordjs,cs,dotnet,ruby&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,postgresql,ruby&perline=6" />
 
 ---
 
