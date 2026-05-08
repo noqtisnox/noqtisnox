@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/Z1mAYGE51g8AAAAj/rem-transparent.gif" alt="Rem Welcome" width="18%" align="right" />
 
-# 🌙 Hey, I'm Nox.
+# Hey, I'm Nox.
 
 *A curious builder by daylight,*
 *a quiet craftsman of ideas by night.*
@@ -12,9 +12,13 @@ writing compilers, designing worlds, and chasing the perfect rice.
 
 <br clear="right"/>
 
+## Core Stack
+
+<img src="https://skillicons.dev/icons?i=react,ts,vite,python,ruby,rails&perline=6" />
+
 ---
 
-## ⚔️ About
+## About
 
 <div align="left">
 
@@ -37,25 +41,7 @@ writing compilers, designing worlds, and chasing the perfect rice.
 
 ---
 
-## 🔧 Core Stack
-
-<img src="https://skillicons.dev/icons?i=mongo,express,react,nodejs,ts,js,html,css,git,github,python,java,kotlin,fastapi,flask,vite,tailwind,sass&perline=6" />
-
----
-
-## 📖 Learning
-
-<img src="https://skillicons.dev/icons?i=cpp,postgresql,ruby&perline=6" />
-
----
-
-## 📊 Stats
-
-<img src="https://streak-stats.demolab.com?user=noqtisnox&theme=transparent&hide_border=true&ring=b0a8c8&fire=c08090&currStreakLabel=b0a8c8&sideLabels=7a8aaa&dates=c0c8d8&stroke=3a3a48" width="60%"/>
-
----
-
-## 🌌 Vibes
+## Vibes
 
 <div align="left">
 
