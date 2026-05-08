@@ -14,7 +14,19 @@ writing compilers, designing worlds, and chasing the perfect rice.
 
 ## Core Stack
 
-<img src="https://skillicons.dev/icons?i=react,ts,vite,python,ruby,rails&perline=6" />
+<div align="left">
+
+```zsh
+┌──(nox㉿havenos)-[~]
+└─$ stack --list
+
+  frontend   →  React · Vite · TypeScript / JavaScript
+  backend    →  Python · Ruby on Rails
+
+┌──(nox㉿havenos)-[~]
+└─$ █
+```
+</div>
 
 ---
 
