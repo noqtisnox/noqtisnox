@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.tenor.com/Z1mAYGE51g8AAAAj/rem-transparent.gif" alt="Rem Welcome" width="30%" align="center" />
+<img src="https://media.tenor.com/Z1mAYGE51g8AAAAj/rem-transparent.gif" alt="Rem Welcome" width="18%" align="center" />
 
 # Hey, I'm Nox.
 
