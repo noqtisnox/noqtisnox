@@ -1,90 +1,44 @@
 <div align="center">
 
-<img src="https://media.tenor.com/Z1mAYGE51g8AAAAj/rem-transparent.gif" alt="Rem Welcome" width="18%" align="right" />
+<img src="https://media.tenor.com/Z1mAYGE51g8AAAAj/rem-transparent.gif" alt="Rem Welcome" width="30%" align="center" />
 
 # Hey, I'm Nox.
 
-*A curious builder by daylight,*
-*a quiet craftsman of ideas by night.*
-
-A 3rd-year CS student somewhere between<br/>
-writing compilers, designing worlds, and chasing the perfect rice.
-
-<br clear="right"/>
-
-## Core Stack
-
-<div align="left">
-
-```zsh
-┌──(nox㉿havenos)-[~]
-└─$ stack --list
-
-  frontend   →  React · Vite · TypeScript / JavaScript
-  backend    →  Python · Ruby on Rails
-
-┌──(nox㉿havenos)-[~]
-└─$ █
-```
-</div>
-
----
-
-## About
-
-<div align="left">
-
-```zsh
-┌──(nox㉿havenos)-[~]
-└─$ whoami --verbose
-
-  focus      →  Full-stack · AI/ML · Systems
-  currently  →  Learning Rails · Building a D&D AI tool
-  os         →  Fedora Linux · GNOME · Kitty · Zsh
-  tools      →  Zed · Starship · btw i use fedora
-  dreaming   →  HavenOS — a distro with a soul & Rita — a companion who knows your system
-  fun fact   →  I have 4 fantasy worlds, conlangs included
-
-┌──(nox㉿havenos)-[~]
-└─$ █
-```
+*An almost 4th-year CS student from Ukraine*
+<br/>
+*living a mixed life of tech & art.*
 
 </div>
 
 ---
 
-## Vibes
+### Stack
 
-<div align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,ruby,rails,python,postgres" />
+</p>
 
-```zsh
-┌──(nox㉿havenos)-[~]
-└─$ cat current_mood.txt
+---
 
-  🎵 music       →  Rock · Metal · J-Pop · Folk Music
-                    the kind that makes city walks feel cinematic
+### Projects
 
-  🌆 atmosphere  →  long walks through Lviv
-                    cobblestones, old architecture, quiet streets
+<div align="center">
 
-  ⛩️  anime       →  Re:Zero
-                    Devout team Rem follower
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-  🎮 games       →  TES · Dragon Age · Civilization
-                    open worlds with lore worth getting lost in
+[![mnogomov](https://github-readme-stats.vercel.app/api/pin/?username=cherrynox&repo=mnogomov&theme=tokyonight&hide_border=true)](https://github.com/cherrynox/mnogomov)
+[![chez-che-che](https://github-readme-stats.vercel.app/api/pin/?username=cherrynox&repo=chez-che-che&theme=tokyonight&hide_border=true)](https://github.com/cherrynox/chez-che-che)
 
-  📖 writing     →  4 worlds and 1 book in progress · conlangs
-                    somewhere between Tolkien and Warhammer 40K
-```
+*// TODO: write more Ruby & Python*
 
-<br clear="right"/>
-  
 </div>
 
 ---
+
+<div align="center">
 
 > *"Haven is not a destination. It's what you build around yourself."*
 
-<img src="https://media.tenor.com/i7E4kNq3Y3EAAAAi/rem-re-zero.gif" alt="Rem Dancing" height="120px" align="right" />
+<img src="https://media.tenor.com/i7E4kNq3Y3EAAAAi/rem-re-zero.gif" alt="Rem Dancing" height="200px" align="center" />
 
 </div>
